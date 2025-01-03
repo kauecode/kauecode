@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello there, I'm Kaue! 👋  
+
+I’m a passionate **Front-End Engineer** with over a decade of experience creating user-focused digital solutions, from marketing and corporate websites to large-scale applications and e-commerce platforms. 
+
+I specialize in the **JavaScript ecosystem, working with TypeScript, React, Next.js, Node.js, and modern UI frameworks.**
+
+➡️ You can find me on [LinkedIn](https://www.linkedin.com/in/kauecorrea/) or [Kaue.ca](https://www.kaue.ca)
+
 
 <!--
 **kauecode/kauecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

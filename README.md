@@ -1,10 +1,10 @@
 # Hello there, I'm Kaue! 👋  
 
-I’m a passionate **Front-End Engineer** with over a decade of experience creating user-focused digital solutions, from marketing and corporate websites to large-scale applications and e-commerce platforms. 
+I’m a passionate **Front-End Engineer** based in **Toronto, Canada** 🍁 and I bring over a decade of experience developing user-focused digital solutions, from marketing and corporate websites to large-scale applications and e-commerce platforms. 
 
-I specialize in the **JavaScript ecosystem, working with TypeScript, React, Next.js, Node.js, and modern UI frameworks.**
+For the past few years been focusing on the **JavaScript ecosystem, working with TypeScript, React, Next.js, Node.js, modern UI frameworks** and **custom design systems**, but I’m always eager to explore new technologies.
 
-➡️ You can find me on [LinkedIn](https://www.linkedin.com/in/kauecorrea/) or [Kaue.ca](https://www.kaue.ca)
+➡️ You can find more about me on [LinkedIn](https://www.linkedin.com/in/kauecorrea/) or [Kaue.ca](https://www.kaue.ca)
 
 
 <!--
